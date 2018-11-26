@@ -1,1 +1,1 @@
-# tokens-erc20
+# VCCT ERC20代币源代码
